@@ -8,4 +8,6 @@ INTRODUCTION TO COMPUTER 1 in NCU
 > sum=15, average=5<br>  
 > Step2: [1]         []<br>  
 > Step3: [1 2] [1] [2] []<br>  
-> ......<br>
+> ......<br>    
+
+https://github.com/JiaHanXie/Divide-Treasures/blob/main/109_1_PA2_Divide_Treasures_release.pdf
